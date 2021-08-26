@@ -27,7 +27,7 @@
 			<dataSource type="POOLED">
 				<property name="driver" value="org.mariadb.jdbc.Driver" />
 				<property name="url"
-					value="jdbc:mariadb://localhost/test?useSSL=false" />
+					value="jdbc:mariadb://localhost/spowner?useSSL=false" />
 				<property name="username" value="guest" />
 				<property name="password" value="1234" />
 			</dataSource>
